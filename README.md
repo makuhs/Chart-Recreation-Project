@@ -9,7 +9,7 @@
 
 ----
 
-**MN State Fair Attendance** combed the fair digital archieves to pull together a large dataset of attendance numbers since 1885! 
+**MN State Fair Attendance:** I spent an afternoon combing through the fair digital archieves to pull together a large dataset of attendance numbers since 1885
 
 <img src="https://github.com/makuhs/Personal-Projects/blob/main/mnStateFair/totalAttendance.jpeg" width="1000">
 
