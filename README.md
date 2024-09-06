@@ -10,4 +10,5 @@
 
 **MN State Fair Attendance** combed the fair digital archieves to pull together a large dataset of attendance numbers since 1885! This figure is the 2024 subset. 
 
-<img scr="https://github.com/makuhs/Personal-Projects/blob/main/mnStateFair/dailyAttendance.jpeg" width = "850">
+![Model]("https://github.com/makuhs/Personal-Projects/blob/main/mnStateFair/dailyAttendance.jpeg")
+
