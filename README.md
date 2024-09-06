@@ -1,5 +1,5 @@
 # Personal Projects
- collection of fun & personal data viz projects
+ collection of fun data viz projects
 
 
 ## Select Projects 
