@@ -8,7 +8,9 @@
 <img src="https://github.com/makuhs/Personal-Projects/blob/main/tempAnimate/time_series.gif" width="850">
 
 
-**MN State Fair Attendance** combed the fair digital archieves to pull together a large dataset of attendance numbers since 1885! This figure is the 2024 subset. 
+**MN State Fair Attendance** combed the fair digital archieves to pull together a large dataset of attendance numbers since 1885! 
+<img src="https://github.com/makuhs/Personal-Projects/blob/main/mnStateFair/totalAttendance.jpeg" width="850">
 
+This figure is the 2024 subset. 
 <img src="https://github.com/makuhs/Personal-Projects/blob/main/mnStateFair/dailyAttendance.jpeg" width="850">
 
