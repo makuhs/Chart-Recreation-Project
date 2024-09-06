@@ -7,6 +7,7 @@
 
 <img src="https://github.com/makuhs/Personal-Projects/blob/main/tempAnimate/time_series.gif" width="850">
 
+----
 
 **MN State Fair Attendance** combed the fair digital archieves to pull together a large dataset of attendance numbers since 1885! 
 
