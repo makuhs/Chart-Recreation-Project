@@ -20,7 +20,7 @@ Approval and favorability ratings for Trump's second term. Replication of pollin
 
 Practice with gganimate package (attempt to replicate [a figure from NASA GISS](https://earthobservatory.nasa.gov/images/151831/summer-2023-was-the-hottest-on-record)
 
-<img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/animateTemp/time_series.gif" width="850">
+<img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/animateTemp/time_series.gif" width="900">
 
 <br>
 <br>
