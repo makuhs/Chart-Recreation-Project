@@ -7,6 +7,15 @@ R-code and data can be found within each topic folder. Attribution and sourcing 
 
 ## Select Recreations
 
+### Trump Approval Ratings:
+
+Approval and favorability ratings for Trump's second term. Replication of polling analysis from [G. Elliott Morris's Substack: Strength in Numbers](gelliotmorris.com)
+
+<img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/approvalRatings/trumpApprovalRatings.png" width="850">
+
+<br>
+<br>
+
 ### Animated Temperature: 
 
 Practice with gganimate package (attempt to replicate [a figure from NASA GISS](https://earthobservatory.nasa.gov/images/151831/summer-2023-was-the-hottest-on-record)
