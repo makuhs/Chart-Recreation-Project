@@ -11,7 +11,7 @@ R-code and data can be found within each topic folder. Attribution and sourcing 
 
 Approval and favorability ratings for Trump's second term. Replication of polling analysis from [G. Elliott Morris's Substack: Strength in Numbers](https://www.gelliottmorris.com/)
 
-<img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/approvalRatings/trumpApprovalRatings.png" width="850">
+<img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/approvalRatings/trumpApprovalRatings.png" width="700">
 
 <br>
 <br>
@@ -20,7 +20,7 @@ Approval and favorability ratings for Trump's second term. Replication of pollin
 
 Practice with gganimate package (attempt to replicate [a figure from NASA GISS](https://earthobservatory.nasa.gov/images/151831/summer-2023-was-the-hottest-on-record)
 
-<img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/animateTemp/time_series.gif" width="900">
+<img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/animateTemp/time_series.gif" width="850">
 
 <br>
 <br>
