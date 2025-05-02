@@ -9,7 +9,7 @@ R-code and data can be found within each topic folder. Attribution and sourcing 
 
 ### Trump Approval Ratings:
 
-Approval and favorability ratings for Trump's second term. Replication of polling analysis from [G. Elliott Morris's Substack: Strength in Numbers](gelliotmorris.com)
+Approval and favorability ratings for Trump's second term. Replication of polling analysis from [G. Elliott Morris's Substack: Strength in Numbers](https://gelliotmorris.com)
 
 <img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/approvalRatings/trumpApprovalRatings.png" width="850">
 
