@@ -1,5 +1,5 @@
 # Chart Recreation Project
-While finishing my dissertation, I found I did not have time to put towards creativedata visualzation projects. I set up a personal challenge to make sure I continue to flex R-based vis skills: goal of once a week, finding interesting data or a cool chart in media/related to current events and attempting to recreate entirely in R without any post-processing. 
+While finishing my dissertation, I found I did not have time to put towards creativedata visualzation projects. I set up a personal challenge to continue to flex R-based viz skills: goal of once a week, finding interesting data or a cool chart in media/related to current events and attempting to recreate entirely in R without post-processing. 
 
 
 ## Select Recreations
