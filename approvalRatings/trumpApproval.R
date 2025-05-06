@@ -4,12 +4,13 @@
 ## Averages computed by G. Elliott Morris (overall) and Adam Carlson (issues)
 
 
-## packages
+## packages ------------------------------
 library(tidyverse)
 library(lubridate)
-library(plotly)
 
-## data
+
+
+## data ------------------------------
 trumpData <- read.csv("approvalRatings/trumpApprovalRatings.csv")%>%
   mutate(displayDate = as.Date(displayDate, format = "%d-%b"),
          dayMonth = paste(day(displayDate), month(displayDate, label = TRUE, abbr = TRUE), 
@@ -17,11 +18,11 @@ trumpData <- read.csv("approvalRatings/trumpApprovalRatings.csv")%>%
 
 ## text annotations
 title <- "Trump's Job Approval Rating 2025"
-subtitle <- "Average approval and disapproval rating for Donald Trump's second term. 
-All adults, all polls, rolling 10-day average."
+subtitle <- "Average approval and disapproval rating for Donald Trump's second term. All adults, all polls, rolling 10-day average."
 caption <- "Data and chart inspo from G. Elliott Morris (gelliotmorris.com) Strength in Numbers"
 
-## plot
+
+## plot ------------------------------
 ggplot(trumpData)+
   
   # mexico/canada/china tariffs into effect: 
@@ -78,7 +79,8 @@ ggplot(trumpData)+
   
   # theming: 
   theme_minimal()+
-  theme(panel.grid.major.x = element_blank(),
+  theme(plot.background = element_rect(fill = 'white', color = NA),
+        panel.grid.major.x = element_blank(),
         panel.grid.minor.x = element_blank(),
         plot.margin = unit(c(2.2, 2.5, 0.5 , 0.2), "cm"),
         
@@ -89,14 +91,14 @@ ggplot(trumpData)+
        y = "")+ 
   
   # add titles/captions: 
-  annotate("text", x = as.Date("2025-01-22"), y = 66.5, label = title,
+  annotate("text", x = as.Date("2025-01-22"), y = 66, label = title,
            hjust = 0,
            color = "grey10",
            alpha=0.8,
            family = "Open Sans Bold",
-           size = 5.9)+
+           size = 6.5)+
   
-  annotate("text", x = as.Date("2025-01-22"), y = 63.4, label = subtitle,
+  annotate("text", x = as.Date("2025-01-22"), y = 63.6, label = subtitle,
            hjust = 0,
            color = "grey10",
            alpha=0.8,
@@ -104,14 +106,16 @@ ggplot(trumpData)+
            size = 3,
            lineheight = 1.1)+
   
-  annotate("text", x = as.Date("2025-05-20"), y = 28, label = caption,
-           hjust = 1,
+  annotate("text", x = as.Date("2025-01-28"), y = 29.5, label = caption,
+           hjust = 0,
            color = "grey65",
            alpha=0.8,
            family = "Open Sans Italic",
            size = 2,
            lineheight = 1.1)
+
+
+#final ------------------------------
+ggsave("approvalRatings/trumpApprovalRatings.png", width = 7.75, height = 5, units = "in") 
   
-  
-ggplotly(p)
              
