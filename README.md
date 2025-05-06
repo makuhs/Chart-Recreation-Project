@@ -1,5 +1,5 @@
 # Chart Recreation Project
-While finishing my dissertation, I found I did not have time to put towards creative data viz projects. I set up a personal challenge to continue to flex R-based skills: goal of once a week, finding interesting data or a cool chart in media/related to current events and spending an hour attempting to recreate entirely in R without post-processing. 
+Personal challenge to continue to flex R-based skills while finshing my disertation: goal of once a week, finding interesting data or a cool chart in media/related to current events and spending an hour attempting to recreate entirely in R without post-processing. 
 
 R-code and data can be found within each topic folder. Attribution and sourcing links to original work can be found below. 
 
@@ -9,7 +9,8 @@ R-code and data can be found within each topic folder. Attribution and sourcing 
 
 ### Trump Approval Ratings:
 
-Approval and favorability ratings for Trump's second term. Replication of polling analysis from [G. Elliott Morris's Substack: Strength in Numbers](https://www.gelliottmorris.com/)
+Approval and favorability ratings for Trump's second term. 
+Replication of polling analysis and chart from [G. Elliott Morris's Substack: Strength in Numbers](https://www.gelliottmorris.com/)
 
 <img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/approvalRatings/trumpApprovalRatings.png" width="700">
 
