@@ -14,6 +14,8 @@ Replication of polling analysis and chart from [G. Elliott Morris's Substack: St
 
 <img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/approvalRatings/trumpApprovalRatings.png" width="700">
 
+<img src="https://github.com/makuhs/Chart-Recreation-Project/blob/main/approvalRatings/trumpApprovalRatingsIssue.png" width="700">
+
 <br>
 <br>
 
